@@ -1,0 +1,9 @@
+body {
+  font-family: monospace;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+  margin-bottom: 10px;
+}
